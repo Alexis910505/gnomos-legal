@@ -1,0 +1,15 @@
+:root { color-scheme: light; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.5;
+  color: #1c1917;
+  background: #faf7f2;
+}
+main { max-width: 40rem; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+.marca { margin: 0; letter-spacing: .04em; text-transform: uppercase; font-size: .8rem; color: #78716c; }
+h1 { margin: .25rem 0 1rem; font-size: 2rem; }
+h2 { margin: 1.75rem 0 .4rem; font-size: 1.15rem; }
+p, li { font-size: 1.05rem; }
+.fecha { color: #57534e; }
+a { color: #9a3412; }
